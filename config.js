@@ -6,7 +6,7 @@ const received = chalk.bold.cyan
 const error = chalk.bold.red
 
 
-global.owner = ['6281390199407','6281393190599'] // Put your number here
+global.owner = ['60147366955'] // Put your number here
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = {
